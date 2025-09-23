@@ -1,0 +1,61 @@
+
+.caixa1{
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial, sans-serif;
+    background-color: black;
+    border-radius: 10px;
+    top: 0;
+    height: 100px;
+   align-items: center;
+   
+}
+
+.tra{
+    
+    padding-top: 0;
+padding: 0 30px 0 20px;
+width: 150px;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.plvrs{
+    
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around ;
+    gap: 9px;
+    width: 250px;
+
+}
+
+.btn_esquerdo{
+    color: aliceblue;
+    display: flex;
+
+}
+
+
+
+
+
+
+
+button{
+
+cursor: pointer;
+
+color: aliceblue;
+ padding-top: 0;
+text-align: center;
+padding: 6px 4px 0 10px;
+
+background-color: transparent;
+border-radius: 10px;
+   margin-right: 20px; 
+
+}
